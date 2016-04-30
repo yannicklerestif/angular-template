@@ -38,5 +38,6 @@ Or removed using :
 GULP
 ====
 To run browser_sync, use :
+
     gup serve
     
