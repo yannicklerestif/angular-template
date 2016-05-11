@@ -1,8 +1,3 @@
-/**
- *
- * Copyright (C) 2016 Deveryware S.A. All Rights Reserved.
- *
- */
 (function () {
     'use strict';
 

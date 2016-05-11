@@ -6,9 +6,9 @@
         .constant('SOME_CONSTANT', 'some constant')
         .run(run);
 
-    run.$inject = ['$ionicPlatform'];
+    run.$inject = [];
 
-    function run($ionicPlatform, Locale) {
+    function run(Locale) {
     }
 
 })();
